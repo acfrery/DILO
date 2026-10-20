@@ -1,0 +1,49 @@
+---
+title: "Understanding Pacific Islands Through Satellite Images: A Statistical Modelling Project"
+author: "Prof. Alejandro C. Frery (supervisor), MSc. Viktor Meszaros (Mentor)"
+output:
+  html_document:
+    theme: cosmo
+    toc: true
+    toc_depth: 3
+    number_sections: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
+---
+
+# Project
+
+## Summary
+
+This project explores how satellite images can be used to study environmental change across Pacific Islands. Students will find freely available imagery, choose a topic such as mangroves, crops, or deforestation, and identify and collect image samples related to it. They will then use statistical methods to describe how the samples’ properties vary over time.	Students should have basic statistics and data-handling skills, curiosity about Pacific environments, and an interest in working with satellite images. Familiarity with coding tools such as Python or R is helpful, but not essential.
+
+## What is “Earth Observation with Remote Sensing”?  
+
+What is “Earth Observation with Remote Sensing”?  
+
+* Earth Observation: Geoscience + Remote Sensing
+* Geoscience: the study of Earth's systems - including its surface, interior, atmosphere, water bodies, and ecosystems - and how they interact with life and human activity. It extends to the study of space and other planets to deepen our understanding of the universe.
+* Remote Sensing: the science of observing a sample in its natural environment from outside that environment.
+
+## Sensor types and characteristics
+
+* The spectrum
+* Spectral windows
+* Resolution: spectral, spatial, temporal
+
+## Images and repositories
+
+* Alaska Image Facility
+
+## Google Earth Engine
+
+* Download
+* Visualise
+* Navigate
+
+## Basic operations
+
+## Make a report using Quarto
+
+# Activities
