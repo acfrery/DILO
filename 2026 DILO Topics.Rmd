@@ -32,18 +32,27 @@ What is “Earth Observation with Remote Sensing”?
 * Spectral windows
 * Resolution: spectral, spatial, temporal
 
-## Images and repositories
+## Google Earth Engine (Optical)
+
+* Visualise
+* Navigate
+* Download
+
+## Images and repositories (Radar)
 
 * Alaska Image Facility
 
-## Google Earth Engine
-
-* Download
-* Visualise
-* Navigate
-
 ## Basic operations
 
-## Make a report using Quarto
+## Make a report using Quarto in Git
 
 # Activities
+
+## Intoduction Meeting
+
+* Clone GitHub repository, where you can find the Project Summary (It will be updated as the project goes on)
+* Install RStudio and Quarto on your laptops
+* Register to Google Earth Engine (GEE) and play with some example codes
+* We revised the basics of Satellite Remote Sensing and the physics, background of what optical sensors measure and looked at the typical reflectance spectrum of different surfaces (vegetation, soil and water)
+* SNAP 2026 Symposium: Monday, 9 November 2026, 10:00 am – 4:00 pm, CO119, Kelburn Campus
+Registrtion: https://vuw-snap.github.io/SNAP-decisions/symposium-2026.html
